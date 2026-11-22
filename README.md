@@ -14,3 +14,6 @@ of learning GitHub.
 
 ## Author
 AI and Connected Objects student.
+
+## My first branch
+I am learning how to work with Git branches.
